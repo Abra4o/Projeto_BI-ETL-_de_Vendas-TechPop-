@@ -1,6 +1,6 @@
 # TechPop BI - ETL de Vendas 📊
 
-** LINKEDIN: http://www.linkedin.com/in/abraão-luiz
+**LINKEDIN: http://www.linkedin.com/in/abraão-luiz**
 
 Este projeto consiste em um pipeline de **Business Intelligence (BI)** que realiza o processo de **ETL (Extract, Transform, Load)** para converter dados de um sistema operacional (OLTP) em um Data Warehouse (OLAP). O objetivo é facilitar a análise estratégica de vendas, faturamento e desempenho de vendedores.
 
